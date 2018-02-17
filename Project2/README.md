@@ -1,1 +1,1 @@
-Our code and resutls are in ee219_project2.ipynb.
+Our code and results are in ee219_project2.ipynb.
